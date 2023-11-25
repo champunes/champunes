@@ -7,4 +7,4 @@
 
 Mis logros:
 
-![Certificado de AWS Academy](https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)(https://www.credly.com/badges/e4d21abb-0e8c-4bfd-97be-6a1929f93882/public_url)
+[![Certificado de AWS Academy](https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/e4d21abb-0e8c-4bfd-97be-6a1929f93882/public_url)
